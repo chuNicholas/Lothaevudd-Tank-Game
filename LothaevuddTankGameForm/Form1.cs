@@ -1,8 +1,7 @@
 ﻿/* Ernest Gabriel Nicholas
  * January 25, 2017
  * Emulate the Wii Play Tanks Game
- * **Note: Incomplete Game; on the bright side, this is the first project I haven't finished in
- *  the 3 years I have taken this course - nick :(**
+ * **Note: Incomplete Game**
  */
 using System;
 using System.Collections.Generic;

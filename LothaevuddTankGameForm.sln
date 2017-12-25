@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LothaevuddTankGameForm", "LothaevuddTankGameForm\LothaevuddTankGameForm.csproj", "{40505E1C-151E-4AD2-A5F1-00C8E3A07ECA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{86B258DB-52E2-48F4-B0BF-0E9BAF881878}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://chunicholas.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LothaevuddTankGameForm\\LothaevuddTankGameForm.csproj
+		SccProjectName1 = LothaevuddTankGameForm
+		SccLocalPath1 = LothaevuddTankGameForm
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40505E1C-151E-4AD2-A5F1-00C8E3A07ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40505E1C-151E-4AD2-A5F1-00C8E3A07ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40505E1C-151E-4AD2-A5F1-00C8E3A07ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40505E1C-151E-4AD2-A5F1-00C8E3A07ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
